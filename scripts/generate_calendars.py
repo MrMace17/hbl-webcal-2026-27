@@ -112,7 +112,12 @@ def clean_event(event):
 
         cleaned.append(line)
 
-    return cleaned
+    # END:VEVENT entfernen, damit wir vor dem Ende
+# die Erinnerungen einfügen können.
+if cleaned and cleaned[-1] == "END:VEVENT":
+    cleaned.pop()
+
+return cleaned
 
 
 def fetch(url):
@@ -190,10 +195,24 @@ def build_calendar(name, events):
 
     body = []
 
-    for event in events:
-        body.extend(
-    clean_event(event)
-)
+   for event in events:
+    body.extend(
+        clean_event(event)
+    )
+
+    body.extend([
+        "BEGIN:VALARM",
+        "ACTION:DISPLAY",
+        "DESCRIPTION:Spiel beginnt in 6 Stunden",
+        "TRIGGER:-PT6H",
+        "END:VALARM",
+
+        "BEGIN:VALARM",
+        "ACTION:DISPLAY",
+        "DESCRIPTION:Spiel beginnt in 1 Stunde",
+        "TRIGGER:-PT1H",
+        "END:VALARM",
+    ])
 
     return "\r\n".join(
         header
