@@ -1,0 +1,41 @@
+name: Test Calovo Feeds
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Füchse Berlin
+        run: |
+          curl -fL --silent --show-error \
+            "${{ secrets.CALOVO_FUECHSE_URL }}" \
+            -o fuechse.ics
+          echo "Füchse Feed:"
+          grep -c "BEGIN:VEVENT" fuechse.ics
+
+      - name: Test SC Magdeburg
+        run: |
+          curl -fL --silent --show-error \
+            "${{ secrets.CALOVO_SCM_URL }}" \
+            -o scm.ics
+          echo "SCM Feed:"
+          grep -c "BEGIN:VEVENT" scm.ics
+
+      - name: Test THW Kiel
+        run: |
+          curl -fL --silent --show-error \
+            "${{ secrets.CALOVO_THW_URL }}" \
+            -o thw.ics
+          echo "THW Feed:"
+          grep -c "BEGIN:VEVENT" thw.ics
+
+      - name: Test SG Flensburg-Handewitt
+        run: |
+          curl -fL --silent --show-error \
+            "${{ secrets.CALOVO_SG_URL }}" \
+            -o sg.ics
+          echo "SG Flensburg-Handewitt Feed:"
+          grep -c "BEGIN:VEVENT" sg.ics
