@@ -88,11 +88,16 @@ def is_excluded(event):
     )
 
 
-def clean_location(event):
-    """Entfernt den Calovo-Zusatz aus LOCATION."""
+def clean_event(event):
+    """Bereinigt Calovo-spezifische Inhalte."""
     cleaned = []
 
     for line in event:
+        # Calovo-Werbetext entfernen
+        if line.upper().startswith("DESCRIPTION:"):
+            continue
+
+        # Calovo-Zusatz aus dem Spielort entfernen
         if line.upper().startswith("LOCATION:"):
             prefix, value = line.split(":", 1)
 
@@ -161,8 +166,8 @@ def build_calendar(name, events):
 
     for event in events:
         body.extend(
-            clean_location(event)
-        )
+    clean_event(event)
+)
 
     return "\r\n".join(
         header
