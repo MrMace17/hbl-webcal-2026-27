@@ -1,0 +1,542 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MrMace17//HBL WebCal 2026-27//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Füchse Berlin – Pflichtspiele 2026/27
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:6a5e288090c32@568.calovo
+DTSTART;TZID=Europe/Berlin:20260827T200000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260827T220000
+URL:https://cal.to/r/gDhG
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:Füchse - MT Melsungen | Opel HBL | 1. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n1. Spieltag\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100428Z
+CREATED:20260720T135408Z
+LAST-MODIFIED:20260824T100428Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e288492f17@568.calovo
+DTSTART;TZID=Europe/Berlin:20260903T201500
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260903T221500
+URL:https://cal.to/r/gDhX
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - Füchse | Opel HBL | 2. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n2. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100432Z
+CREATED:20260720T135412Z
+LAST-MODIFIED:20260824T100432Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e288a4020e@568.calovo
+DTSTART;TZID=Europe/Berlin:20260906T163000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260906T183000
+URL:https://cal.to/r/gDhY
+LOCATION:Porsche-Arena - Mercedesstraße 69\, 70372 Stuttgart
+SUMMARY:TVB Stuttgart - Füchse | Opel HBL | 3. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://tickets.tvbstuttgart.de/\n\n3. Spieltag\n\nTickets: https://tickets.tvbstuttgart.de/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100437Z
+CREATED:20260720T135418Z
+LAST-MODIFIED:20260824T100437Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e288d0cf14@568.calovo
+DTSTART;TZID=Europe/Berlin:20260913T180000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260913T200000
+URL:https://cal.to/r/gDiT
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:Füchse - VfL Gummersbach | Opel HBL | 4. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n4. Spieltag\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100440Z
+CREATED:20260720T135421Z
+LAST-MODIFIED:20260824T100440Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e289320b70@568.calovo
+DTSTART;TZID=Europe/Berlin:20260920T150000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260920T170000
+URL:https://cal.to/r/gDj7
+LOCATION:Mitsubishi Electric Halle - Siegburger Straße 15\, 40591  Düsseldorf
+SUMMARY:Bergischer HC - Füchse | Opel HBL | 5. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.eventimsports.de/ols/bhc/de/bhc/channel/shop/index/\n\n5. Spieltag\n\nTickets: https://www.eventimsports.de/ols/bhc/de/bhc/channel/shop/index/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100447Z
+CREATED:20260720T135427Z
+LAST-MODIFIED:20260824T100447Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2894f1d63@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20260926
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20260927
+URL:https://cal.to/r/gDmO
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - HBW Balingen-Weilstetten | Opel HBL | 6. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n6. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100449Z
+CREATED:20260720T135429Z
+LAST-MODIFIED:20260824T100449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e289c7fd30@568.calovo
+DTSTART;TZID=Europe/Berlin:20261003T200000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261003T220000
+URL:https://cal.to/r/gDmP
+LOCATION:EgeTrans Arena - Schwarzwaldstraße 40\, 74321 Bietigheim-Bissingen
+SUMMARY:SG BBM Bietigheim - Füchse | Opel HBL | 7. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://vivenu.com/seller/sg-bbm-bietigheim-wq3m\n\n7. Spieltag\n\nTickets: https://vivenu.com/seller/sg-bbm-bietigheim-wq3m\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100456Z
+CREATED:20260720T135436Z
+LAST-MODIFIED:20260824T100456Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e289d63c7f@568.calovo
+DTSTART;TZID=Europe/Berlin:20261011T180000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261011T200000
+URL:https://cal.to/r/gDmQ
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:Füchse - TBV Lemgo Lippe | Opel HBL | 8. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n8. Spieltag\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100457Z
+CREATED:20260720T135437Z
+LAST-MODIFIED:20260824T100457Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28a2ce379@568.calovo
+DTSTART;TZID=Europe/Berlin:20261018T150000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261018T170000
+URL:https://cal.to/r/gDmR
+LOCATION:GGW Arena - Campus Allee 2\, 24943 Flensburg
+SUMMARY:SG Flensburg-Handewitt - Füchse | Opel HBL | 9. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.eventim.de/artist/sg-flensburg-handewitt/?affiliate=GMD&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfV_f72HQxB9JLPBO6apnDrxKSCwBT0nTQway78HKci00JxvZpmqsuEaAk8FEALw_wcB\n\n9. Spieltag\n\nTickets: https://www.eventim.de/artist/sg-flensburg-handewitt/?affiliate=GMD&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfV_f72HQxB9JLPBO6apnDrxKSCwBT0nTQway78HKci00JxvZpmqsuEaAk8FEALw_wcB\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100504Z
+CREATED:20260720T135442Z
+LAST-MODIFIED:20260824T100504Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28a62b24e@568.calovo
+DTSTART;TZID=Europe/Berlin:20261025T163000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261025T183000
+URL:https://cal.to/r/gDsG
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:Füchse - HSG Wetzlar | Opel HBL | 10. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n10. Spieltag\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100508Z
+CREATED:20260720T135446Z
+LAST-MODIFIED:20260824T100508Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ad08ea1@568.calovo
+DTSTART;TZID=Europe/Berlin:20261101T163000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261101T183000
+URL:https://cal.to/r/gDsH
+LOCATION:Werner-Assmann Halle - Sportpark1\, 99817 Eisenach
+SUMMARY:ThSV Eisenach - Füchse | Opel HBL | 11. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.thsv-eisenach.de/tickets/ticketinfo\n\n11. Spieltag\n\nTickets: https://www.thsv-eisenach.de/tickets/ticketinfo\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100515Z
+CREATED:20260720T135453Z
+LAST-MODIFIED:20260824T100515Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ae5294f@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261114
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261115
+URL:https://cal.to/r/gDsI
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - THW Kiel | Opel HBL | 12. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n12. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100517Z
+CREATED:20260720T135454Z
+LAST-MODIFIED:20260824T100517Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28b37f45f@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261119
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261122
+URL:https://cal.to/r/gDsJ
+LOCATION:EWS Arena - Nördliche Ringstraße  87\, 73033 Göppingen
+SUMMARY:* FRISCH AUF! Göppingen - Füchse | Opel HBL | 13. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.eventimsports.de/ols/goeppingen/\n\n13. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/goeppingen/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100521Z
+CREATED:20260720T135459Z
+LAST-MODIFIED:20260824T100521Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28badd913@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261126
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261129
+URL:https://cal.to/r/gDsK
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - TSV Hannover-Burgdorf | Opel HBL | 14. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n14. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100523Z
+CREATED:20260720T135506Z
+LAST-MODIFIED:20260824T100523Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28c2ceab3@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261203
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261206
+URL:https://cal.to/r/gDsL
+LOCATION:PSD Bank Nürnberg ARENA - Kurt-Leucht-Weg 11\, 90471 Nürnberg
+SUMMARY:* HC Erlangen - Füchse | Opel HBL | 15. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://shop.reservix.de/off/login_check.php?id=c6ec16e8cf3cd5077514ebef590a1f763d4616b372ef8900411779bf6bedf213&vID=8342\n\n15. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://shop.reservix.de/off/login_check.php?id=c6ec16e8cf3cd5077514ebef590a1f763d4616b372ef8900411779bf6bedf213&vID=8342\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100528Z
+CREATED:20260720T135514Z
+LAST-MODIFIED:20260824T100528Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28c60e651@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261210
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261213
+URL:https://cal.to/r/gDsM
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - Handball Club Hamburg | Opel HBL | 16. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n16. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100531Z
+CREATED:20260720T135518Z
+LAST-MODIFIED:20260824T100531Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28cb0a65d@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261219
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261220
+URL:https://cal.to/r/gDxh
+LOCATION:SAP Arena - An der Arena 1\, 68163 Mannheim
+SUMMARY:* Rhein-Neckar Löwen - Füchse | Opel HBL | 17. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: http://bit.ly/LwenTickets\n\n17. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://tickets.rhein-neckar-loewen.de/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100534Z
+CREATED:20260720T135523Z
+LAST-MODIFIED:20260824T100534Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28d35bf8e@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261222
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261223
+URL:https://cal.to/r/gDxi
+LOCATION:Schwalbe-Arena - Heiner-Brand-Platz 1\, 51643 Gummersbach
+SUMMARY:* VfL Gummersbach - Füchse | Opel HBL | 18. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: http://www.ticketmaster.de/artist/vfl-gummersbach-tickets/35229?language=de-de\n\n18. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: http://www.ticketmaster.de/artist/vfl-gummersbach-tickets/35229?language=de-de\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100539Z
+CREATED:20260720T135531Z
+LAST-MODIFIED:20260824T100539Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28d5694f3@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270211
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270214
+URL:https://cal.to/r/gDxj
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - SG Flensburg-Handewitt | Opel HBL | 19. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n19. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100541Z
+CREATED:20260720T135533Z
+LAST-MODIFIED:20260824T100541Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28db34d61@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270218
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270221
+URL:https://cal.to/r/gDxk
+LOCATION:calovo.de
+SUMMARY:* Handball Club Hamburg - Füchse | Opel HBL | 20. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://hamburghandball.tmtickets.de/Events\n\n20. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://hamburghandball.tmtickets.de/Events\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100544Z
+CREATED:20260720T135539Z
+LAST-MODIFIED:20260824T100544Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28df553cf@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270225
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270228
+URL:https://cal.to/r/gDxl
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - HC Erlangen | Opel HBL | 21. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n21. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100547Z
+CREATED:20260720T135543Z
+LAST-MODIFIED:20260824T100547Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28e2f05d8@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270304
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270307
+URL:https://cal.to/r/gDxm
+LOCATION:Rothenbach-Halle - Damaschkestrasse 55\, 34121 Kassel
+SUMMARY:* MT Melsungen - Füchse | Opel HBL | 22. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.ticket-onlineshop.com/ols/mtmelsungen/\n\n22. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.ticket-onlineshop.com/ols/mtmelsungen/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100549Z
+CREATED:20260720T135546Z
+LAST-MODIFIED:20260824T100549Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28e7eb403@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270318
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270321
+URL:https://cal.to/r/gDxn
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - Bergischer HC | Opel HBL | 23. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n23. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100552Z
+CREATED:20260720T135551Z
+LAST-MODIFIED:20260824T100552Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28eabcb01@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270325
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270328
+URL:https://cal.to/r/gDxo
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - SC Magdeburg | Opel HBL | 24. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n24. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100554Z
+CREATED:20260720T135554Z
+LAST-MODIFIED:20260824T100554Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28f0d848a@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270401
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270404
+URL:https://cal.to/r/gDyP
+LOCATION:ZAG Arena - Expo Plaza 7\, 30539 Hannover
+SUMMARY:* TSV Hannover-Burgdorf - Füchse | Opel HBL | 25. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.eventimsports.de/ols/recken/\n\n25. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/recken/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100558Z
+CREATED:20260720T135600Z
+LAST-MODIFIED:20260824T100558Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28f5cc95e@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270415
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270418
+URL:https://cal.to/r/gDz8
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - SG BBM Bietigheim | Opel HBL | 26. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n26. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100601Z
+CREATED:20260720T135605Z
+LAST-MODIFIED:20260824T100601Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28fdb6a14@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270422
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270425
+URL:https://cal.to/r/gDEq
+LOCATION:PHOENIX CONTACT arena - Bunsenstraße 39\, 32657 Lemgo
+SUMMARY:* TBV Lemgo Lippe - Füchse | Opel HBL | 27. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://tickets-tbvlemgolippe.reservix.de/events\n\n27. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://tickets-tbvlemgolippe.reservix.de/events\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100608Z
+CREATED:20260720T135613Z
+LAST-MODIFIED:20260824T100608Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ffdf27b@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270429
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270502
+URL:https://cal.to/r/gDEr
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - ThSV Eisenach | Opel HBL | 28. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n28. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100610Z
+CREATED:20260720T135615Z
+LAST-MODIFIED:20260824T100610Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e290389a66@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270513
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270516
+URL:https://cal.to/r/gDEs
+LOCATION:MERKUR OSTSEEHALLE - Europaplatz 1\, 24103 Kiel
+SUMMARY:* THW Kiel - Füchse | Opel HBL | 29. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://tickets.thw-handball.de/content\n\n29. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://tickets.thw-handball.de/content\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100614Z
+CREATED:20260720T135619Z
+LAST-MODIFIED:20260824T100614Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2907c1878@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270516
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270517
+URL:https://cal.to/r/gDEt
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - FRISCH AUF! Göppingen | Opel HBL | 30. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n30. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100618Z
+CREATED:20260720T135623Z
+LAST-MODIFIED:20260824T100618Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e290f3b41c@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270526
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270527
+URL:https://cal.to/r/gDJk
+LOCATION:MEY GENERALBAU ARENA - Auf Stetten 1\, 72336 Balingen
+SUMMARY:* HBW Balingen-Weilstetten - Füchse | Opel HBL | 31. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: http://www.ticketmaster.de/artist/hbw-balingen-weilstetten-tickets/35188\n\n31. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: http://www.ticketmaster.de/artist/hbw-balingen-weilstetten-tickets/35188\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100624Z
+CREATED:20260720T135631Z
+LAST-MODIFIED:20260824T100624Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e291082f42@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270529
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270530
+URL:https://cal.to/r/gDJl
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - Rhein-Neckar Löwen | Opel HBL | 32. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n32. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100624Z
+CREATED:20260720T135632Z
+LAST-MODIFIED:20260824T100624Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2917bc0b3@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270602
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270603
+URL:https://cal.to/r/gDJm
+LOCATION:Buderus Arena Wetzlar - Wolfgang-Kühle-Str. 1\, 35576 Wetzlar
+SUMMARY:* HSG Wetzlar - Füchse | Opel HBL | 33. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.ticket-onlineshop.com/ols/hsg-wetzlar/\n\n33. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.ticket-onlineshop.com/ols/hsg-wetzlar/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100628Z
+CREATED:20260720T135639Z
+LAST-MODIFIED:20260824T100628Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e291a0739d@568.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270606
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270607
+URL:https://cal.to/r/gDJn
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse - TVB Stuttgart | Opel HBL | 34. Spieltag
+DESCRIPTION:Dieser Terminservice wird präsentiert von calovo.de - kostenlos eigenen Kalender anlegen und mit der Welt teilen: http://bit.ly/calovo_kostenlos_starten\n\n\n\nTickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n34. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100631Z
+CREATED:20260720T135642Z
+LAST-MODIFIED:20260824T100631Z
+END:VEVENT
+END:VCALENDAR

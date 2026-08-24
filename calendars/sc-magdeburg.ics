@@ -1,0 +1,711 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MrMace17//HBL WebCal 2026-27//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SC Magdeburg – Pflichtspiele 2026/27
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:6a5e2882290a4@571.calovo
+DTSTART;TZID=Europe/Berlin:20260830T150000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260830T170000
+URL:https://cal.to/r/gDhF
+LOCATION:Schwalbe-Arena - Heiner-Brand-Platz 1\, 51643 Gummersbach
+SUMMARY:VfL Gummersbach - SC Magdeburg | Opel HBL | 1. Spieltag
+DESCRIPTION:Tickets unter: http://www.ticketmaster.de/artist/vfl-gummersbach-tickets/35229?language=de-de\n\n1. Spieltag\n\nTickets: http://www.ticketmaster.de/artist/vfl-gummersbach-tickets/35229?language=de-de\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100429Z
+CREATED:20260720T135410Z
+LAST-MODIFIED:20260824T100429Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: VfL Gummersbach - SC Magdeburg | Opel HBL | 1. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2884637d6@571.calovo
+DTSTART;TZID=Europe/Berlin:20260903T201500
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260903T221500
+URL:https://cal.to/r/gDhJ
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - Füchse Berlin | Opel HBL | 2. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n2. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100432Z
+CREATED:20260720T135412Z
+LAST-MODIFIED:20260824T100432Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SC Magdeburg - Füchse Berlin | Opel HBL | 2. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e288c0f6ff@571.calovo
+DTSTART;TZID=Europe/Berlin:20260906T180000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260906T200000
+URL:https://cal.to/r/gDit
+LOCATION:MEY GENERALBAU ARENA - Auf Stetten 1\, 72336 Balingen
+SUMMARY:HBW Balingen-Weilstetten - SC Magdeburg | Opel HBL | 3. Spieltag
+DESCRIPTION:Tickets unter: http://www.ticketmaster.de/artist/hbw-balingen-weilstetten-tickets/35188\n\n3. Spieltag\n\nTickets: http://www.ticketmaster.de/artist/hbw-balingen-weilstetten-tickets/35188\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100439Z
+CREATED:20260720T135420Z
+LAST-MODIFIED:20260824T100439Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: HBW Balingen-Weilstetten - SC Magdeburg | Opel HBL | 3. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e288c52df6@571.calovo
+DTSTART;TZID=Europe/Berlin:20260913T150000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260913T170000
+URL:https://cal.to/r/gDiu
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - HSG Wetzlar | Opel HBL | 4. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n4. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100440Z
+CREATED:20260720T135420Z
+LAST-MODIFIED:20260824T100440Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SC Magdeburg - HSG Wetzlar | Opel HBL | 4. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28910fb5c@571.calovo
+DTSTART;TZID=Europe/Berlin:20260920T180000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260920T200000
+URL:https://cal.to/r/gDjD
+LOCATION:Rothenbach-Halle - Damaschkestrasse 55\, 34121 Kassel
+SUMMARY:MT Melsungen - SC Magdeburg | Opel HBL | 5. Spieltag
+DESCRIPTION:Tickets unter: https://www.ticket-onlineshop.com/ols/mtmelsungen/\n\n5. Spieltag\n\nTickets: https://www.ticket-onlineshop.com/ols/mtmelsungen/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100444Z
+CREATED:20260720T135425Z
+LAST-MODIFIED:20260824T100444Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MT Melsungen - SC Magdeburg | Opel HBL | 5. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28945974a@571.calovo
+DTSTART;TZID=Europe/Berlin:20260926T200000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260926T220000
+URL:https://cal.to/r/gDjG
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - SG BBM Bietigheim | Opel HBL | 6. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n6. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100448Z
+CREATED:20260720T135428Z
+LAST-MODIFIED:20260824T100448Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SC Magdeburg - SG BBM Bietigheim | Opel HBL | 6. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28c59a1c6@571.calovo
+DTSTART;TZID=Europe/Berlin:20260930T190000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20260930T210000
+URL:https://cal.to/r/gDsf
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - THW Kiel | Opel HBL | 16. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n16. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100530Z
+CREATED:20260720T135517Z
+LAST-MODIFIED:20260824T100530Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SC Magdeburg - THW Kiel | Opel HBL | 16. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e289945a00@571.calovo
+DTSTART;TZID=Europe/Berlin:20261004T150000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261004T170000
+URL:https://cal.to/r/gDls
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - HC Erlangen | Opel HBL | 7. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n7. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100453Z
+CREATED:20260720T135433Z
+LAST-MODIFIED:20260824T100453Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SC Magdeburg - HC Erlangen | Opel HBL | 7. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28a15a0c8@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261008
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261011
+URL:https://cal.to/r/gDmF
+LOCATION:calovo.de
+SUMMARY:* Bergischer HC - SC Magdeburg | Opel HBL | 8. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/bhc/de/bhc/channel/shop/index/\n\n8. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/bhc/de/bhc/channel/shop/index/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100501Z
+CREATED:20260720T135441Z
+LAST-MODIFIED:20260824T100501Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * Bergischer HC - SC Magdeburg | Opel HBL | 8. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28a1be422@571.calovo
+DTSTART;TZID=Europe/Berlin:20261018T180000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261018T200000
+URL:https://cal.to/r/gDmG
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:SC Magdeburg - TVB Stuttgart | Opel HBL | 9. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n9. Spieltag\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100502Z
+CREATED:20260720T135441Z
+LAST-MODIFIED:20260824T100502Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SC Magdeburg - TVB Stuttgart | Opel HBL | 9. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28a6cc96e@571.calovo
+DTSTART;TZID=Europe/Berlin:20261025T150000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261025T170000
+URL:https://cal.to/r/gDny
+LOCATION:SAP Arena - An der Arena 1\, 68163 Mannheim
+SUMMARY:Rhein-Neckar Löwen - SC Magdeburg | Opel HBL | 10. Spieltag
+DESCRIPTION:Tickets unter: http://bit.ly/LwenTickets\n\n10. Spieltag\n\nTickets: https://tickets.rhein-neckar-loewen.de/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100509Z
+CREATED:20260720T135446Z
+LAST-MODIFIED:20260824T100509Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rhein-Neckar Löwen - SC Magdeburg | Opel HBL | 10. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ac9e216@571.calovo
+DTSTART;TZID=Europe/Berlin:20261031T200000
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin:20261031T220000
+URL:https://cal.to/r/gDou
+LOCATION:PHOENIX CONTACT arena - Bunsenstraße 39\, 32657 Lemgo
+SUMMARY:TBV Lemgo Lippe - SC Magdeburg | Opel HBL | 11. Spieltag
+DESCRIPTION:Tickets unter: https://tickets-tbvlemgolippe.reservix.de/events\n\n11. Spieltag\n\nTickets: https://tickets-tbvlemgolippe.reservix.de/events\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+DTSTAMP:20260824T100515Z
+CREATED:20260720T135452Z
+LAST-MODIFIED:20260824T100515Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TBV Lemgo Lippe - SC Magdeburg | Opel HBL | 11. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ade0684@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261114
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261115
+URL:https://cal.to/r/gDov
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - SG Flensburg-Handewitt | Opel HBL | 12. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n12. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100516Z
+CREATED:20260720T135453Z
+LAST-MODIFIED:20260824T100516Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - SG Flensburg-Handewitt | Opel HBL | 12. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28b2a78ab@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261119
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261122
+URL:https://cal.to/r/gDqI
+LOCATION:calovo.de
+SUMMARY:* Handball Club Hamburg - SC Magdeburg | Opel HBL | 13. Spieltag
+DESCRIPTION:Tickets unter: https://hamburghandball.tmtickets.de/Events\n\n13. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://hamburghandball.tmtickets.de/Events\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100521Z
+CREATED:20260720T135458Z
+LAST-MODIFIED:20260824T100521Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * Handball Club Hamburg - SC Magdeburg | Opel HBL | 13. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ba11adb@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261126
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261129
+URL:https://cal.to/r/gDr4
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - ThSV Eisenach | Opel HBL | 14. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n14. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100523Z
+CREATED:20260720T135506Z
+LAST-MODIFIED:20260824T100523Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - ThSV Eisenach | Opel HBL | 14. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28c218ddc@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261203
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261206
+URL:https://cal.to/r/gDru
+LOCATION:EWS Arena - Nördliche Ringstraße  87\, 73033 Göppingen
+SUMMARY:* FRISCH AUF! Göppingen - SC Magdeburg | Opel HBL | 15. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/goeppingen/\n\n15. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/goeppingen/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100528Z
+CREATED:20260720T135514Z
+LAST-MODIFIED:20260824T100528Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * FRISCH AUF! Göppingen - SC Magdeburg | Opel HBL | 15. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28cc314a8@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261219
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261220
+URL:https://cal.to/r/gDtz
+LOCATION:ZAG Arena - Expo Plaza 7\, 30539 Hannover
+SUMMARY:* TSV Hannover-Burgdorf - SC Magdeburg | Opel HBL | 17. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/recken/\n\n17. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/recken/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100535Z
+CREATED:20260720T135524Z
+LAST-MODIFIED:20260824T100535Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * TSV Hannover-Burgdorf - SC Magdeburg | Opel HBL | 17. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28d1ac1f5@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20261222
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20261223
+URL:https://cal.to/r/gDus
+LOCATION:PSD Bank Nürnberg ARENA - Kurt-Leucht-Weg 11\, 90471 Nürnberg
+SUMMARY:* HC Erlangen - SC Magdeburg | Opel HBL | 18. Spieltag
+DESCRIPTION:Tickets unter: https://shop.reservix.de/off/login_check.php?id=c6ec16e8cf3cd5077514ebef590a1f763d4616b372ef8900411779bf6bedf213&vID=8342\n\n18. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://shop.reservix.de/off/login_check.php?id=c6ec16e8cf3cd5077514ebef590a1f763d4616b372ef8900411779bf6bedf213&vID=8342\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100539Z
+CREATED:20260720T135529Z
+LAST-MODIFIED:20260824T100539Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * HC Erlangen - SC Magdeburg | Opel HBL | 18. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28d4dbf9f@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270211
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270214
+URL:https://cal.to/r/gDv8
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - MT Melsungen | Opel HBL | 19. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n19. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100540Z
+CREATED:20260720T135532Z
+LAST-MODIFIED:20260824T100540Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - MT Melsungen | Opel HBL | 19. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28dd2eee4@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270218
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270221
+URL:https://cal.to/r/gDvc
+LOCATION:Werner-Assmann Halle - Sportpark1\, 99817 Eisenach
+SUMMARY:* ThSV Eisenach - SC Magdeburg | Opel HBL | 20. Spieltag
+DESCRIPTION:Tickets unter: https://www.thsv-eisenach.de/tickets/ticketinfo\n\n20. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.thsv-eisenach.de/tickets/ticketinfo\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100545Z
+CREATED:20260720T135541Z
+LAST-MODIFIED:20260824T100545Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * ThSV Eisenach - SC Magdeburg | Opel HBL | 20. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28de3689b@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270225
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270228
+URL:https://cal.to/r/gDvM
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - Rhein-Neckar Löwen | Opel HBL | 21. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n21. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100546Z
+CREATED:20260720T135542Z
+LAST-MODIFIED:20260824T100546Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - Rhein-Neckar Löwen | Opel HBL | 21. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28e27502c@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270304
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270307
+URL:https://cal.to/r/gDwk
+LOCATION:MERKUR OSTSEEHALLE - Europaplatz 1\, 24103 Kiel
+SUMMARY:* THW Kiel - SC Magdeburg | Opel HBL | 22. Spieltag
+DESCRIPTION:Tickets unter: https://tickets.thw-handball.de/content\n\n22. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://tickets.thw-handball.de/content\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100549Z
+CREATED:20260720T135546Z
+LAST-MODIFIED:20260824T100549Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * THW Kiel - SC Magdeburg | Opel HBL | 22. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28e70edc1@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270318
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270321
+URL:https://cal.to/r/gDwH
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - VfL Gummersbach | Opel HBL | 23. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n23. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100551Z
+CREATED:20260720T135551Z
+LAST-MODIFIED:20260824T100551Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - VfL Gummersbach | Opel HBL | 23. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28eae1a42@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270325
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270328
+URL:https://cal.to/r/gDxV
+LOCATION:Max-Schmeling-Halle - Am Falkplatz 1\, 10437 Berlin
+SUMMARY:* Füchse Berlin - SC Magdeburg | Opel HBL | 24. Spieltag
+DESCRIPTION:Tickets unter: https://www.fuechse.berlin/o.red.r/tickets.html\n\n24. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.fuechse.berlin/o.red.r/tickets.html\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100554Z
+CREATED:20260720T135554Z
+LAST-MODIFIED:20260824T100554Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * Füchse Berlin - SC Magdeburg | Opel HBL | 24. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28eea1f34@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270401
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270404
+URL:https://cal.to/r/gDy4
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - Bergischer HC | Opel HBL | 25. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n25. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100557Z
+CREATED:20260720T135558Z
+LAST-MODIFIED:20260824T100557Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - Bergischer HC | Opel HBL | 25. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28f55cf1a@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270415
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270418
+URL:https://cal.to/r/gDz1
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - FRISCH AUF! Göppingen | Opel HBL | 26. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n26. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100601Z
+CREATED:20260720T135605Z
+LAST-MODIFIED:20260824T100601Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - FRISCH AUF! Göppingen | Opel HBL | 26. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28fb45799@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270422
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270425
+URL:https://cal.to/r/gDzQ
+LOCATION:GGW Arena - Campus Allee 2\, 24943 Flensburg
+SUMMARY:* SG Flensburg-Handewitt - SC Magdeburg | Opel HBL | 27. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventim.de/artist/sg-flensburg-handewitt/?affiliate=GMD&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfV_f72HQxB9JLPBO6apnDrxKSCwBT0nTQway78HKci00JxvZpmqsuEaAk8FEALw_wcB\n\n27. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventim.de/artist/sg-flensburg-handewitt/?affiliate=GMD&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfV_f72HQxB9JLPBO6apnDrxKSCwBT0nTQway78HKci00JxvZpmqsuEaAk8FEALw_wcB\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100606Z
+CREATED:20260720T135611Z
+LAST-MODIFIED:20260824T100606Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SG Flensburg-Handewitt - SC Magdeburg | Opel HBL | 27. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e28ff6dc49@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270429
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270502
+URL:https://cal.to/r/gDDf
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - TSV Hannover-Burgdorf | Opel HBL | 28. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n28. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100610Z
+CREATED:20260720T135615Z
+LAST-MODIFIED:20260824T100610Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - TSV Hannover-Burgdorf | Opel HBL | 28. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2906e7051@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270513
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270516
+URL:https://cal.to/r/gDEo
+LOCATION:Porsche-Arena - Mercedesstraße 69\, 70372 Stuttgart
+SUMMARY:* TVB Stuttgart - SC Magdeburg | Opel HBL | 29. Spieltag
+DESCRIPTION:Tickets unter: https://tickets.tvbstuttgart.de/\n\n29. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://tickets.tvbstuttgart.de/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100617Z
+CREATED:20260720T135622Z
+LAST-MODIFIED:20260824T100617Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * TVB Stuttgart - SC Magdeburg | Opel HBL | 29. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e29073f416@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270516
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270517
+URL:https://cal.to/r/gDEp
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - TBV Lemgo Lippe | Opel HBL | 30. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n30. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100617Z
+CREATED:20260720T135623Z
+LAST-MODIFIED:20260824T100617Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - TBV Lemgo Lippe | Opel HBL | 30. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e290e32bad@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270526
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270527
+URL:https://cal.to/r/gDEM
+LOCATION:Buderus Arena Wetzlar - Wolfgang-Kühle-Str. 1\, 35576 Wetzlar
+SUMMARY:* HSG Wetzlar - SC Magdeburg | Opel HBL | 31. Spieltag
+DESCRIPTION:Tickets unter: https://www.ticket-onlineshop.com/ols/hsg-wetzlar/\n\n31. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.ticket-onlineshop.com/ols/hsg-wetzlar/\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100623Z
+CREATED:20260720T135630Z
+LAST-MODIFIED:20260824T100623Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * HSG Wetzlar - SC Magdeburg | Opel HBL | 31. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e290f935cc@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270529
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270530
+URL:https://cal.to/r/gDFl
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - Handball Club Hamburg | Opel HBL | 32. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n32. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100624Z
+CREATED:20260720T135631Z
+LAST-MODIFIED:20260824T100624Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - Handball Club Hamburg | Opel HBL | 32. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2918299df@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270602
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270603
+URL:https://cal.to/r/gDGU
+LOCATION:EgeTrans Arena - Schwarzwaldstraße 40\, 74321 Bietigheim-Bissingen
+SUMMARY:* SG BBM Bietigheim - SC Magdeburg | Opel HBL | 33. Spieltag
+DESCRIPTION:Tickets unter: https://vivenu.com/seller/sg-bbm-bietigheim-wq3m\n\n33. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://vivenu.com/seller/sg-bbm-bietigheim-wq3m\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100629Z
+CREATED:20260720T135640Z
+LAST-MODIFIED:20260824T100629Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SG BBM Bietigheim - SC Magdeburg | Opel HBL | 33. Spieltag
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5e2918ee4ea@571.calovo
+DTSTART;TZID=Europe/Berlin;VALUE=DATE:20270606
+SEQUENCE:0
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+DTEND;TZID=Europe/Berlin;VALUE=DATE:20270607
+URL:https://cal.to/r/gDHC
+LOCATION:GETEC Arena - Berliner Chaussee 32\, 39114 Magdeburg
+SUMMARY:* SC Magdeburg - HBW Balingen-Weilstetten | Opel HBL | 34. Spieltag
+DESCRIPTION:Tickets unter: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n34. Spieltag\n\nAchtung: Der endgültige Spieltermin wurde noch nicht festgelegt.\n\nTickets: https://www.eventimsports.de/ols/scm/de/Heimspiele/channel/shop/index\n\n\n\n\nAnbieter-Impressum: https://calovo.de/impressum\n\n\ncalovo Kalender entfernen? Anleitung: calovo.de/kalender-entfernen
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTAMP:20260824T100629Z
+CREATED:20260720T135640Z
+LAST-MODIFIED:20260824T100629Z
+BEGIN:VALARM
+TRIGGER:-P1DT0H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder: * SC Magdeburg - HBW Balingen-Weilstetten | Opel HBL | 34. Spieltag
+END:VALARM
+END:VEVENT
+END:VCALENDAR
