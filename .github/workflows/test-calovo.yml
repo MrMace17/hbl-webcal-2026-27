@@ -1,69 +1,73 @@
-name: Analyze Calovo Feeds
+name: Diagnose Calovo Feeds
 
 on:
   workflow_dispatch:
 
 jobs:
-  analyze-feeds:
+  diagnose:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Download Füchse Berlin
+      - name: Feeds herunterladen
         run: |
-          curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_FUECHSE_URL }}" -o fuechse.ics
+          curl -fL --silent --show-error "${{ secrets.CALOVO_FUECHSE_URL }}" -o fuechse.ics
+          curl -fL --silent --show-error "${{ secrets.CALOVO_SCM_URL }}" -o scm.ics
+          curl -fL --silent --show-error "${{ secrets.CALOVO_THW_URL }}" -o thw.ics
+          curl -fL --silent --show-error "${{ secrets.CALOVO_SG_URL }}" -o sg.ics
 
-      - name: Download SC Magdeburg
-        run: |
-          curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_SCM_URL }}" -o scm.ics
-
-      - name: Download THW Kiel
-        run: |
-          curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_THW_URL }}" -o thw.ics
-
-      - name: Download SG Flensburg-Handewitt
-        run: |
-          curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_SG_URL }}" -o sg.ics
-
-      - name: Compact analysis
+      - name: Diagnose
         run: |
           for file in fuechse.ics scm.ics thw.ics sg.ics; do
             echo ""
             echo "========================================"
-            echo "DATEI: $file"
+            echo " $file"
             echo "========================================"
 
             echo ""
-            echo "--- Wettbewerbs-/Kategorieangaben ---"
-            grep -E '^(CATEGORIES|X-[A-Z0-9-]*CATEGORY|X-[A-Z0-9-]*COMPETITION)' "$file" \
-              | sort -u || true
+            echo "--- Termine nach Jahr ---"
+            grep '^DTSTART' "$file" \
+              | sed -E 's/.*:([0-9]{4}).*/\1/' \
+              | sort | uniq -c
 
             echo ""
-            echo "--- Erste 10 Spiele ---"
+            echo "--- Anzahl Spiele ---"
+            echo "VEVENTs: $(grep -c 'BEGIN:VEVENT' "$file")"
+
+            echo ""
+            echo "--- Letzte 5 Termine im Feed ---"
+
             awk '
-              BEGIN { RS="END:VEVENT"; FS="\n" }
+              BEGIN {
+                RS="END:VEVENT";
+                FS="\n";
+                count=0
+              }
+
               /BEGIN:VEVENT/ {
-                summary=""; date=""; location=""; categories="";
+                date="";
+                summary="";
+                location="";
+
                 for (i=1; i<=NF; i++) {
-                  if ($i ~ /^SUMMARY:/) summary=$i;
                   if ($i ~ /^DTSTART/) date=$i;
+                  if ($i ~ /^SUMMARY:/) summary=$i;
                   if ($i ~ /^LOCATION:/) location=$i;
-                  if ($i ~ /^CATEGORIES:/) categories=$i;
                 }
-                print date;
-                print summary;
-                if (categories != "") print categories;
-                if (location != "") print location;
-                print "---";
-                count++;
-                if (count >= 10) exit;
+
+                if (date != "") {
+                  data[++count]=date " | " summary " | " location;
+                }
+              }
+
+              END {
+                start=count-4;
+                if (start < 1) start=1;
+
+                for (i=start; i<=count; i++) {
+                  print data[i];
+                }
               }
             ' "$file"
 
             echo ""
-            echo "--- Anzahl Spiele ---"
-            grep -c "BEGIN:VEVENT" "$file"
           done
