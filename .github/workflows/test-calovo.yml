@@ -11,43 +11,59 @@ jobs:
       - name: Download Füchse Berlin
         run: |
           curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_FUECHSE_URL }}" \
-            -o fuechse.ics
+            "${{ secrets.CALOVO_FUECHSE_URL }}" -o fuechse.ics
 
       - name: Download SC Magdeburg
         run: |
           curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_SCM_URL }}" \
-            -o scm.ics
+            "${{ secrets.CALOVO_SCM_URL }}" -o scm.ics
 
       - name: Download THW Kiel
         run: |
           curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_THW_URL }}" \
-            -o thw.ics
+            "${{ secrets.CALOVO_THW_URL }}" -o thw.ics
 
       - name: Download SG Flensburg-Handewitt
         run: |
           curl -fL --silent --show-error \
-            "${{ secrets.CALOVO_SG_URL }}" \
-            -o sg.ics
+            "${{ secrets.CALOVO_SG_URL }}" -o sg.ics
 
-      - name: Analyze Füchse Berlin
+      - name: Compact analysis
         run: |
-          echo "===== FÜCHSE BERLIN ====="
-          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' fuechse.ics || true
+          for file in fuechse.ics scm.ics thw.ics sg.ics; do
+            echo ""
+            echo "========================================"
+            echo "DATEI: $file"
+            echo "========================================"
 
-      - name: Analyze SC Magdeburg
-        run: |
-          echo "===== SC MAGDEBURG ====="
-          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' scm.ics || true
+            echo ""
+            echo "--- Wettbewerbs-/Kategorieangaben ---"
+            grep -E '^(CATEGORIES|X-[A-Z0-9-]*CATEGORY|X-[A-Z0-9-]*COMPETITION)' "$file" \
+              | sort -u || true
 
-      - name: Analyze THW Kiel
-        run: |
-          echo "===== THW KIEL ====="
-          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' thw.ics || true
+            echo ""
+            echo "--- Erste 10 Spiele ---"
+            awk '
+              BEGIN { RS="END:VEVENT"; FS="\n" }
+              /BEGIN:VEVENT/ {
+                summary=""; date=""; location=""; categories="";
+                for (i=1; i<=NF; i++) {
+                  if ($i ~ /^SUMMARY:/) summary=$i;
+                  if ($i ~ /^DTSTART/) date=$i;
+                  if ($i ~ /^LOCATION:/) location=$i;
+                  if ($i ~ /^CATEGORIES:/) categories=$i;
+                }
+                print date;
+                print summary;
+                if (categories != "") print categories;
+                if (location != "") print location;
+                print "---";
+                count++;
+                if (count >= 10) exit;
+              }
+            ' "$file"
 
-      - name: Analyze SG Flensburg-Handewitt
-        run: |
-          echo "===== SG FLENSBURG-HANDEWITT ====="
-          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' sg.ics || true
+            echo ""
+            echo "--- Anzahl Spiele ---"
+            grep -c "BEGIN:VEVENT" "$file"
+          done
