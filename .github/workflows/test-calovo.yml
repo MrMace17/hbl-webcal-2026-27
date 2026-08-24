@@ -1,41 +1,53 @@
-name: Test Calovo Feeds
+name: Analyze Calovo Feeds
 
 on:
   workflow_dispatch:
 
 jobs:
-  test-feeds:
+  analyze-feeds:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test Füchse Berlin
+      - name: Download Füchse Berlin
         run: |
           curl -fL --silent --show-error \
             "${{ secrets.CALOVO_FUECHSE_URL }}" \
             -o fuechse.ics
-          echo "Füchse Feed:"
-          grep -c "BEGIN:VEVENT" fuechse.ics
 
-      - name: Test SC Magdeburg
+      - name: Download SC Magdeburg
         run: |
           curl -fL --silent --show-error \
             "${{ secrets.CALOVO_SCM_URL }}" \
             -o scm.ics
-          echo "SCM Feed:"
-          grep -c "BEGIN:VEVENT" scm.ics
 
-      - name: Test THW Kiel
+      - name: Download THW Kiel
         run: |
           curl -fL --silent --show-error \
             "${{ secrets.CALOVO_THW_URL }}" \
             -o thw.ics
-          echo "THW Feed:"
-          grep -c "BEGIN:VEVENT" thw.ics
 
-      - name: Test SG Flensburg-Handewitt
+      - name: Download SG Flensburg-Handewitt
         run: |
           curl -fL --silent --show-error \
             "${{ secrets.CALOVO_SG_URL }}" \
             -o sg.ics
-          echo "SG Flensburg-Handewitt Feed:"
-          grep -c "BEGIN:VEVENT" sg.ics
+
+      - name: Analyze Füchse Berlin
+        run: |
+          echo "===== FÜCHSE BERLIN ====="
+          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' fuechse.ics || true
+
+      - name: Analyze SC Magdeburg
+        run: |
+          echo "===== SC MAGDEBURG ====="
+          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' scm.ics || true
+
+      - name: Analyze THW Kiel
+        run: |
+          echo "===== THW KIEL ====="
+          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' thw.ics || true
+
+      - name: Analyze SG Flensburg-Handewitt
+        run: |
+          echo "===== SG FLENSBURG-HANDEWITT ====="
+          grep -E '^(SUMMARY|DESCRIPTION|CATEGORIES|LOCATION|DTSTART|DTEND|UID)' sg.ics || true
