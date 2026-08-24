@@ -1,0 +1,50 @@
+name: Update HBL WebCal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate calendars
+        env:
+          CALOVO_FUECHSE_URL: ${{ secrets.CALOVO_FUECHSE_URL }}
+          CALOVO_SCM_URL: ${{ secrets.CALOVO_SCM_URL }}
+          CALOVO_THW_URL: ${{ secrets.CALOVO_THW_URL }}
+          CALOVO_SG_URL: ${{ secrets.CALOVO_SG_URL }}
+        run: |
+          python3 scripts/generate_calendars.py
+
+      - name: Show generated calendars
+        run: |
+          echo "Erzeugte Kalender:"
+          ls -lh calendars/
+          echo ""
+          echo "Anzahl VEVENTs:"
+          for file in calendars/*.ics; do
+            echo "$(basename "$file"): $(grep -c 'BEGIN:VEVENT' "$file")"
+          done
+
+      - name: Commit updated calendars
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add calendars/
+
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen an den Kalendern."
+          else
+            git commit -m "Update calendars"
+            git push
+          fi
