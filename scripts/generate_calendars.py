@@ -97,6 +97,10 @@ def clean_event(event):
         if line.upper().startswith("DESCRIPTION:"):
             continue
 
+        # Calovo-Link entfernen
+        if line.upper().startswith("URL:"):
+            continue
+
         # Calovo-Zusatz aus dem Spielort entfernen
         if line.upper().startswith("LOCATION:"):
             prefix, value = line.split(":", 1)
@@ -153,14 +157,36 @@ def build_calendar(name, events):
     """Erzeugt einen sauberen ICS-Kalender."""
 
     header = [
-        "BEGIN:VCALENDAR",
-        "VERSION:2.0",
-        "PRODID:-//MrMace17//HBL WebCal 2026-27//DE",
-        "CALSCALE:GREGORIAN",
-        "METHOD:PUBLISH",
-        f"X-WR-CALNAME:{name} – Pflichtspiele 2026/27",
-        "X-WR-TIMEZONE:Europe/Berlin",
-    ]
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//MrMace17//HBL WebCal 2026-27//DE",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    f"X-WR-CALNAME:{name} – Pflichtspiele 2026/27",
+    "X-WR-TIMEZONE:Europe/Berlin",
+
+    "BEGIN:VTIMEZONE",
+    "TZID:Europe/Berlin",
+    "X-LIC-LOCATION:Europe/Berlin",
+
+    "BEGIN:STANDARD",
+    "DTSTART:20261025T030000",
+    "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU",
+    "TZOFFSETFROM:+0200",
+    "TZOFFSETTO:+0100",
+    "TZNAME:CET",
+    "END:STANDARD",
+
+    "BEGIN:DAYLIGHT",
+    "DTSTART:20260329T020000",
+    "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU",
+    "TZOFFSETFROM:+0100",
+    "TZOFFSETTO:+0200",
+    "TZNAME:CEST",
+    "END:DAYLIGHT",
+
+    "END:VTIMEZONE",
+]
 
     body = []
 
