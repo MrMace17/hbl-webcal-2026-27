@@ -5,6 +5,24 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:THW Kiel – Pflichtspiele 2026/27
 X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20261025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:6a46e034915cf@115.calovo
 DTSTART;TZID=Europe/Berlin:20260827T190000
@@ -12,7 +30,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260827T210000
-URL:https://cal.to/r/gvNJ
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:THW Kiel - TBV Lemgo Lippe | HBL | 1. Spieltag
 DTSTAMP:20260824T110438Z
@@ -26,7 +43,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260903T210000
-URL:https://cal.to/r/gvNK
 LOCATION:EgeTrans Arena (Halle)\, Bietigheim-Bissingen\, Deutschland
 SUMMARY:SG BBM Bietigheim - THW Kiel | HBL | 2. Spieltag
 DTSTAMP:20260824T100431Z
@@ -40,7 +56,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260906T170000
-URL:https://cal.to/r/gvNL
 LOCATION:EWS Arena (Halle)\, Göppingen\, Deutschland
 SUMMARY:Frisch Auf! Göppingen - THW Kiel | HBL | 3. Spieltag
 DTSTAMP:20260824T100449Z
@@ -54,7 +69,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260912T210000
-URL:https://cal.to/r/gvNM
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:THW Kiel - TSV Hannover-Burgdorf | HBL | 4. Spieltag
 DTSTAMP:20260824T100450Z
@@ -68,7 +82,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260918T220000
-URL:https://cal.to/r/gvNN
 LOCATION:Werner-Aßmann-Halle (Halle)\, Eisenach\, Deutschland
 SUMMARY:ThSV Eisenach - THW Kiel | HBL | 5. Spieltag
 DTSTAMP:20260824T100450Z
@@ -82,7 +95,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260926T200000
-URL:https://cal.to/r/gvNO
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:THW Kiel - SG Flensburg-Handewitt | HBL | 6. Spieltag
 DTSTAMP:20260824T100451Z
@@ -96,7 +108,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20260930T210000
-URL:https://cal.to/r/gvO5
 LOCATION:GETEC Arena (Halle)\, Magdeburg\, Deutschland
 SUMMARY:SC Magdeburg - THW Kiel | HBL | 16. Spieltag
 DTSTAMP:20260824T100455Z
@@ -110,7 +121,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20261003T200000
-URL:https://cal.to/r/gvNP
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:THW Kiel - VfL Gummersbach | HBL | 7. Spieltag
 DTSTAMP:20260824T100452Z
@@ -124,7 +134,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20261011T170000
-URL:https://cal.to/r/gvNR
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:THW Kiel - Handball Club Hamburg | HBL | 8. Spieltag
 DTSTAMP:20260824T100452Z
@@ -138,7 +147,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261015
-URL:https://cal.to/r/gvNT
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - Rhein-Neckar Löwen | HBL | 9. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -153,7 +161,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20261024T210000
-URL:https://cal.to/r/gvNV
 LOCATION:PSD Bank Nürnberg Arena (Halle)\, Nürnberg\, Deutschland
 SUMMARY:HC Erlangen - THW Kiel | HBL | 10. Spieltag
 DTSTAMP:20260824T100454Z
@@ -167,7 +174,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin:20261031T210000
-URL:https://cal.to/r/gvNY
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:THW Kiel - TVB 1898 Stuttgart | HBL | 11. Spieltag
 DTSTAMP:20260824T100435Z
@@ -181,7 +187,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261114
-URL:https://cal.to/r/gvO0
 LOCATION:Max-Schmeling-Halle (Halle)\, Berlin\, Deutschland
 SUMMARY:* Füchse Berlin - THW Kiel | HBL | 12. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -196,7 +201,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261119
-URL:https://cal.to/r/gvO2
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - HSG Wetzlar | HBL | 13. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -211,7 +215,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261126
-URL:https://cal.to/r/gvO3
 LOCATION:Unihalle Wuppertal (Halle)\, Wuppertal\, Deutschland
 SUMMARY:* Bergischer HC - THW Kiel | HBL | 14. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -226,7 +229,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261203
-URL:https://cal.to/r/gvO4
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - HBW Balingen-Weilstetten | HBL | 15. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -241,7 +243,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261219
-URL:https://cal.to/r/gvO7
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - MT Melsungen | HBL | 17. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -256,7 +257,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20261222
-URL:https://cal.to/r/gvO8
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - Frisch Auf! Göppingen | HBL | 18. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -271,7 +271,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270211
-URL:https://cal.to/r/gvOb
 LOCATION:ZAG-Arena (Halle)\, Hannover\, Deutschland
 SUMMARY:* TSV Hannover-Burgdorf - THW Kiel | HBL | 19. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -286,7 +285,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270218
-URL:https://cal.to/r/gvOd
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - SG BBM Bietigheim | HBL | 20. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -301,7 +299,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270225
-URL:https://cal.to/r/gvOe
 LOCATION:Mey-Generalbau-Arena (Halle)\, Balingen\, Deutschland
 SUMMARY:* HBW Balingen-Weilstetten - THW Kiel | HBL | 21. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -316,7 +313,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270304
-URL:https://cal.to/r/gvOh
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - SC Magdeburg | HBL | 22. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -331,7 +327,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270318
-URL:https://cal.to/r/gvOi
 LOCATION:Phoenix Contact Arena (Halle)\, Lemgo\, Deutschland
 SUMMARY:* TBV Lemgo Lippe - THW Kiel | HBL | 23. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -346,7 +341,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270325
-URL:https://cal.to/r/gvOk
 LOCATION:Porsche-Arena (Halle)\, Stuttgart\, Deutschland
 SUMMARY:* TVB 1898 Stuttgart - THW Kiel | HBL | 24. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -361,7 +355,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270401
-URL:https://cal.to/r/gvOm
 LOCATION:Sporthalle Hamburg (Halle)\, Hamburg\, Deutschland
 SUMMARY:* Handball Club Hamburg - THW Kiel | HBL | 25. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -376,7 +369,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270415
-URL:https://cal.to/r/gvOp
 LOCATION:SAP-Arena (Halle)\, Mannheim\, Deutschland
 SUMMARY:* Rhein-Neckar Löwen - THW Kiel | HBL | 26. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -391,7 +383,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270422
-URL:https://cal.to/r/gvOr
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - HC Erlangen | HBL | 27. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -406,7 +397,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270429
-URL:https://cal.to/r/gvOu
 LOCATION:Schwalbe-Arena (Halle)\, Gummersbach\, Deutschland
 SUMMARY:* VfL Gummersbach - THW Kiel | HBL | 28. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -421,7 +411,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270513
-URL:https://cal.to/r/gvOx
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - Füchse Berlin | HBL | 29. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -436,7 +425,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270516
-URL:https://cal.to/r/gvOz
 LOCATION:Buderus Arena (Halle)\, Wetzlar\, Deutschland
 SUMMARY:* HSG Wetzlar - THW Kiel | HBL | 30. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -451,7 +439,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270526
-URL:https://cal.to/r/gvOA
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - ThSV Eisenach | HBL | 31. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -466,7 +453,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270529
-URL:https://cal.to/r/gvOB
 LOCATION:GGW Arena (Halle)\, Flensburg\, Deutschland
 SUMMARY:* SG Flensburg-Handewitt - THW Kiel | HBL | 32. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -481,7 +467,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270602
-URL:https://cal.to/r/gvOE
 LOCATION:Merkur Ostseehalle (Halle)\, Kiel\, Deutschland
 SUMMARY:* THW Kiel - Bergischer HC | HBL | 33. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -496,7 +481,6 @@ SEQUENCE:0
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 DTEND;TZID=Europe/Berlin;VALUE=DATE:20270606
-URL:https://cal.to/r/gvOH
 LOCATION:Rothenbach-Halle (Halle)\, Kassel\, Deutschland
 SUMMARY:* MT Melsungen - THW Kiel | HBL | 34. Spieltag
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
